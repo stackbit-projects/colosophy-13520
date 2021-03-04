@@ -65,7 +65,8 @@
                 "new_window": true
             }
         ],
-        "tagline": "Il blog che si prende cura della tua pancia"
+        "tagline": "Il blog che si prende cura della tua pancia",
+        "logo_img": "images/imageedit_11_6258934960.gif"
     },
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
