@@ -35,13 +35,6 @@
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
-                "new_window": true
             }
         ],
         "tagline": "Il blog che si prende cura della tua pancia",
