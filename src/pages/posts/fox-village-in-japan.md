@@ -1,5 +1,5 @@
 ---
-title: 'Lo zucchero, il killer'
+title: Lo zucchero e i suoi danni
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
